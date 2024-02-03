@@ -13,7 +13,7 @@ I'm currently learning :
 
 
 ## Main UTBM's Projects :
-- **[Munchkin](https://github.com/gabflrt/AP4B " ")**, Recreating the Munchkin role-playing game in Java.
+- **[Munchkin](https://github.com/gabflrt/AP4B " ")**, Recreating the Munchkin role-playing game in Java with JavaFX.
 - **[AP4A](https://github.com/TimDrms/AP4A-Project " ")**, Development of a simulator to model an IOT ecosystem specialized in workspace air quality monitoring in C++.
 - **[Skyjo](https://github.com/TimDrms/Skyjo " ")**, Recreation of the Skyjo card game in Java.
 - **[LO21](https://github.com/TimDrms/Projet-LO21 " ")**, Simplified version of genetic algorithms, one approach to solving optimization problems.
