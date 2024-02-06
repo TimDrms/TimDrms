@@ -21,6 +21,7 @@ I'm currently learning :
 
 ## My Certifications :
 [<img src="Certifications/ccna-introduction-to-networks.png">](https://www.credly.com/badges/2d73f83f-da3d-47c9-b1a0-ec3391e1213c/public_url)
+[<img src="Certifications/ccna-switching-routing-and-wireless-essentials.png">](https://www.credly.com/badges/2e1d57d1-7818-4279-8062-ec73c3631c44/public_url)
 [<img src="Certifications/nvidia_cuda.jpg">](https://courses.nvidia.com/certificates/f5de1585fdb9414c8d6d163abf464ca3/)
 
 
